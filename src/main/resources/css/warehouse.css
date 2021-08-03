@@ -1,0 +1,34 @@
+.warehouse-button{
+    -fx-text-fill: -fx-primary-bl;
+    -fx-background-color: -fx-primary-background;
+    -fx-border-color: -fx-primary-bl;
+    -fx-background-radius: 0;
+}
+
+.warehouse-button:hover{
+    -fx-background-color: -fx-secondary-background;
+}
+.exit-button:hover{
+    -fx-background-color: -fx-secondary-red;
+}
+
+.login-button{
+    -fx-text-fill: -fx-primary-bl;
+    -fx-background-color: -fx-primary-background;
+    -fx-border-color: -fx-primary-bl;
+    -fx-background-radius: 0;
+}
+
+.login-button:hover{
+    -fx-background-color: -fx-secondary-background;
+}
+
+.title{
+    -fx-font-size: 40px;
+    -fx-text-fill: -fx-primary-bl;
+}
+
+.warehouse-label{
+-fx-front-size: 15px;
+-fx-text-fill: -fx-primary-bl;
+}

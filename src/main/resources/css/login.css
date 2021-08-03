@@ -1,0 +1,36 @@
+.exit-button{
+    -fx-background-color: -fx-primary-red;
+    -fx-background-radius: 0;
+    -fx-text-fill: white;
+    -fx-font-size: 11px;
+    -fx-alignment: center;
+}
+
+.exit-button:hover{
+    -fx-background-color: -fx-secondary-red;
+}
+
+.title{
+    -fx-font-size: 40px;
+    -fx-text-fill: -fx-primary-bl;
+}
+
+.background{
+    -fx-background-color: -fx-primary-background;
+    -fx-border-color: -fx-primary-bl;
+}
+
+.text{
+    -fx-text-fill: -fx-primary-bl;
+}
+
+.login-button{
+    -fx-text-fill: -fx-primary-bl;
+    -fx-background-color: -fx-primary-background;
+    -fx-border-color: -fx-primary-bl;
+    -fx-background-radius: 0;
+}
+
+.login-button:hover{
+    -fx-background-color: -fx-secondary-background;
+}
